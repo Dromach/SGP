@@ -23,7 +23,8 @@ Avant d'exécuter ce programme, assurez-vous d'avoir :
 /GestionPaie
 │── employes.csv      # Fichier d'entrée contenant les informations des employés
 │── rapport.txt       # Fichier de sortie avec les salaires nets générés
-│── gestion_paie.cbl  # Code source du programme COBOL
+│── GestionPaie.cbl   # Code source du programme COBOL
+│── GestionPaie.exe   # Executable du programme COBOL
 │── README.md         # Documentation du projet
 ```
 
